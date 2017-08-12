@@ -3,6 +3,10 @@
 
 move_speed = 12;
 
+alarm[0] = room_speed * 3;
+
+obj_black.image_alpha = 0;
+
 //if(!instance_exists(obj_black))
 //	instance_create_depth(x, y, -100, obj_black);
 

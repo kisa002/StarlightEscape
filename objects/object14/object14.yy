@@ -1,19 +1,10 @@
 {
-    "id": "d892c6d7-cbbf-434e-90f4-46c91d774fef",
+    "id": "d99efa3c-79d3-495e-8435-79f377ec0d6f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_knife",
+    "name": "object14",
     "eventList": [
-        {
-            "id": "120b466c-4eff-42ca-972c-84cbe19205e4",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "98805f64-04f2-433e-a76e-b9abf24be574",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "d892c6d7-cbbf-434e-90f4-46c91d774fef"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "5512e5f0-302b-4b14-9270-1dd6ff5a5d51",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
