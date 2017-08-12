@@ -5,16 +5,6 @@
     "name": "obj_create",
     "eventList": [
         {
-            "id": "7c45ce02-560d-4f69-8d77-ef37585cfbb0",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "7b46b2e7-970c-4a78-a173-a341d3a4be42"
-        },
-        {
             "id": "f06d69af-9cb1-4561-abf4-7e9e81ec5b03",
             "modelName": "GMEvent",
             "mvc": "1.0",
