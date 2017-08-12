@@ -1,8 +1,6 @@
 /// @description HolyKnight
 // vnycall74@naver.com - http://holykisa.tistory.com
 
-check = false;
+fade = 1;
 
-dead = false;
-
-fade_init(0.03);
+fade_speed = 0.01;

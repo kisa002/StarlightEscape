@@ -1,11 +1,11 @@
 /// @description HolyKnight
 // vnycall74@naver.com - http://holykisa.tistory.com
 
-move_speed = 12;
+move_speed = 10;
 
 alarm[0] = room_speed * 3;
 
-obj_black.image_alpha = 0;
+//obj_black.image_alpha = 0;
 
 //if(!instance_exists(obj_black))
 //	instance_create_depth(x, y, -100, obj_black);

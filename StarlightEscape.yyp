@@ -407,11 +407,27 @@
             }
         },
         {
+            "Key": "e8be45c9-3a4a-4e03-bfe6-97b2416af7bc",
+            "Value": {
+                "id": "6d54ed71-1369-4065-8ce6-0c391372b431",
+                "resourcePath": "scripts\\fade_init\\fade_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e92be24a-c16a-4960-813b-340e12a9351d",
             "Value": {
                 "id": "d390123b-9f30-4164-bbfc-15c9ad9a8a73",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e9fc724f-c5c6-44f2-a6d6-3d35d30d39cf",
+            "Value": {
+                "id": "faca7f3d-82fc-452a-9771-016b60248eed",
+                "resourcePath": "scripts\\fade_start\\fade_start.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -504,7 +520,8 @@
         }
     ],
     "script_order": [
-        
+        "e8be45c9-3a4a-4e03-bfe6-97b2416af7bc",
+        "e9fc724f-c5c6-44f2-a6d6-3d35d30d39cf"
     ],
     "tutorial": ""
 }

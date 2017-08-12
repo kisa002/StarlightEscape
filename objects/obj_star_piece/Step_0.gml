@@ -10,3 +10,6 @@ if (dead == true)
 		obj_black.image_alpha += 0.01;
 	else
 		instance_destroy();
+		
+		
+fade_start();

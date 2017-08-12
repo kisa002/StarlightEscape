@@ -4,3 +4,5 @@
 image_speed = 0;
 
 alarm[0] = room_speed = 2;
+
+window_set_fullscreen(true);
