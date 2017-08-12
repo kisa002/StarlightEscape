@@ -1,19 +1,10 @@
 {
-    "id": "7a641d3f-6f0f-4802-a474-677adf93ccac",
+    "id": "12571553-caa8-488c-a5f8-c0282cd76cae",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_star_piec",
+    "name": "object13",
     "eventList": [
-        {
-            "id": "8b672669-a9a9-457c-b7d1-b729dd955058",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "98805f64-04f2-433e-a76e-b9abf24be574",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "7a641d3f-6f0f-4802-a474-677adf93ccac"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "337585c5-63d1-43fe-8a9b-6cf0c8865bbe",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

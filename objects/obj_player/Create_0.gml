@@ -1,10 +1,10 @@
 /// @description HolyKnight
 // vnycall74@naver.com - http://holykisa.tistory.com
 
-move_speed = 10;
+move_speed = 12;
 
-if(!instance_exists(obj_black))
-	instance_create_depth(x, y, -100, obj_black);
+//if(!instance_exists(obj_black))
+//	instance_create_depth(x, y, -100, obj_black);
 
 /*
 for(i=1; i<16; i++)

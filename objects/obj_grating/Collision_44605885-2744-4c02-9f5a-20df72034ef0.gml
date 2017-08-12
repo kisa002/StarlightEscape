@@ -3,4 +3,4 @@
 
 if(visible)
 	with(obj_player)
-		instance_destroy();
+		room_restart();
